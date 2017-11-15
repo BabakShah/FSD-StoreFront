@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Full Stack Developer Project: Built an Amazon-like Storefront application using Node.js and MySQL.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabakShah/FSD-StoreFront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabakShah/FSD-StoreFront/issues"
+  },
+  "homepage": "https://github.com/BabakShah/FSD-StoreFront#readme"
+}
