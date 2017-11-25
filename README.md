@@ -1,5 +1,5 @@
 # Full Stack Developer Project:-StoreFront
- Hello, in this project I built an Amazon-like Storefront application using Node.js and MySQL.
+Hello there, in this project I built an Amazon-like Storefront application using Node.js and MySQL.
 
 ## Table Creation Using MySQL
 
